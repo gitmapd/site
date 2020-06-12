@@ -1,3 +1,3 @@
 #Flask/Quart
-#SQlite/Mongo
-#Vue
+#SQlite-Either Raw or SQLAlchemy
+#Vue-Just for frontend with some AJAX
